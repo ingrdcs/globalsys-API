@@ -48,7 +48,7 @@ Precisa estar instalado:
      node index.js
 
 ## A página da aplicação estará disponível em http://localhost:3000/films
-* O array estará vazio 
+* O array estará vazio, para posteriormente testar a aplicação pelo Insomnia e adicionando filmes por lá.
 
 # Mexendo no CRUD
 
@@ -78,6 +78,22 @@ Precisa estar instalado:
 - Olhe na lista a posiçao do array do filme que deseja excluir da lista
 - DELETE- Deletar filme da lista
 - Coloque no DELETE - http://localhost:3000/films/0 (0 - PRIMEIRA POSIÇÃO) // as outras sucessivamente 
+
+
+## Adicionando filmes 
+### Adicionei um por um
+![adicionando-films](https://user-images.githubusercontent.com/65837228/190180180-19413972-2956-4ab1-891f-fbbab1432cf2.png)
+
+
+
+<br>
+
+## Listando os filmes adicionados
+### Listagem dos filmes que adicionei para mostrar a aplicação rodando 
+![listando-films](https://user-images.githubusercontent.com/65837228/190180195-55ed32fb-4f57-4f36-949c-1c6ad6324545.png)
+
+
+
 
 
 Sinta se à vontade para utilizar a API. 
