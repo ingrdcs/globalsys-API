@@ -36,18 +36,18 @@ Precisa estar instalado:
 * Visual Studio
 * Node.JS
 
-# Quando estiver dentro do projeto 
+## Quando estiver dentro do projeto 
 
       npm install
  
-# Instalar Express
+## Instalar Express
 
      npm install express
 
-# Executar a aplicação
+## Executar a aplicação
      node index.js
 
-# A página da aplicação estará disponível em http://localhost:3000/films
+## A página da aplicação estará disponível em http://localhost:3000/films
 * O array estará vazio 
 
 # Mexendo no CRUD
